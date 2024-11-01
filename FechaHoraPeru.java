@@ -1,6 +1,8 @@
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.ZoneId;
+import java.time.DayOfWeek;
+import java.time.temporal.WeekFields;
 
 public class FechaHoraPeru {
     public static void main(String[] args) {
